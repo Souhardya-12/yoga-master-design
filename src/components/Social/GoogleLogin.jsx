@@ -23,7 +23,7 @@ const GoogleLogin = () => {
                     phone: "Is not specified",
                 };
                 if(user.email && user.displayName) {
-                    return axios.post('https://yoga-master-server-new.onrender.com/new-user', userImp).then(() => {
+                    return axios.post('https://yoga-master-server-done.onrender.com/new-user', userImp).then(() => {
                         navigate('/');
                         return "registration successful"
                     }).catch((err) => {

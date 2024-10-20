@@ -18,7 +18,7 @@ const StudentCP = () => {
                         <h2 className='font-bold'>From here, you can jump to any page you want to.</h2>
                         <div className='flex items-center justify-center my-4 gap-3 flex-wrap'>
                             <div className='border border-secondary rounded-lg hover:bg-secondary hover:text-white duration-200 px-2 py-1'>
-                                <Link to='/dashboard/enrolled-class'>My Enroll</Link>
+                                <Link to='/dashboard/enrolled-classes'>My Enroll</Link>
                             </div>
                             <div className='border border-secondary rounded-lg hover:bg-secondary hover:text-white duration-200 px-2 py-1'>
                                 <Link to='/dashboard/my-selected'>My Selected</Link>

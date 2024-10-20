@@ -57,7 +57,7 @@ export const router = createBrowserRouter([
             {
                 path: "/class/:id",
                 element: <SingleClass/>,
-                loader: ({params}) => fetch(`https://yoga-master-server-new.onrender.com/class/${params.id}`)
+                loader: ({params}) => fetch(`https://yoga-master-server-done.onrender.com/class/${params.id}`)
             }
         ]
     },
@@ -98,7 +98,7 @@ export const router = createBrowserRouter([
             {
                 path: "course-details/:id",
                 element: <CourseDetails/>,
-                loader: ({params}) => fetch(`https://yoga-master-server-new.onrender.com/class/${params.id}`)
+                loader: ({params}) => fetch(`https://yoga-master-server-done.onrender.com/class/${params.id}`)
             },
 
             //instructor routes
@@ -125,7 +125,7 @@ export const router = createBrowserRouter([
             {
                 path: "update/:id",
                 element: <UpdateMyClass/>,
-                loader: ({params}) => fetch(`https://yoga-master-server-new.onrender.com/class/${params.id}`)
+                loader: ({params}) => fetch(`https://yoga-master-server-done.onrender.com/class/${params.id}`)
             },
 
             //admin routes
@@ -144,7 +144,7 @@ export const router = createBrowserRouter([
             {
                 path: "update-user/:id",
                 element: <UpdateUser/>,
-                loader: ({params}) => fetch(`https://yoga-master-server-new.onrender.com/users/${params.id}`)
+                loader: ({params}) => fetch(`https://yoga-master-server-done.onrender.com/users/${params.id}`)
             }
         ]
     },
