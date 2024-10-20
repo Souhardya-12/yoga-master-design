@@ -28,7 +28,7 @@ const Resistor = () => {
                         address: data.address
                     };
                     if(user.email && user.displayName) {
-                        return axios.post('https://yoga-master-server-bc4w.onrender.com/new-user', userImp).then(() => {
+                        return axios.post('https://yoga-master-server-new.onrender.com/new-user', userImp).then(() => {
                             setError('');
                             navigate('/');
                             return "registration successful"

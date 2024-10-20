@@ -4,7 +4,7 @@ import axios from "axios";
 const useAxiosFetch = () => {
 
     const axiosInstance = axios.create({
-        baseURL: 'https://yoga-master-server-bc4w.onrender.com',
+        baseURL: 'https://yoga-master-server-new.onrender.com',
     });
 
     //Interceptors

@@ -5,7 +5,7 @@ import useUser from '../../../../hooks/useUser';
 import { Navigate, useNavigate } from 'react-router-dom';
 
 const CheckoutPayment = ({price, cartItm}) => {
-    const URL = `https://yoga-master-server-bc4w.onrender.com/payment-info?${cartItm&& `classId=${cartItm}`}`
+    const URL = `https://yoga-master-server-new.onrender.com/payment-info?${cartItm&& `classId=${cartItm}`}`
     const stripe = useStripe();
     const elements = useElements();
     const axiosSecure = useAxiosSecure();

@@ -8,7 +8,7 @@
 //   const {logout} = useContext(AuthContext);
 //   const navigate = useNavigate();
 //   const axiosSecure = axios.create({
-//     baseURL: 'https://yoga-master-server-bc4w.onrender.com'
+//     baseURL: 'https://yoga-master-server-new.onrender.com'
 //   });
 //   useEffect(() => {
 //     //add a request interceptor
@@ -50,7 +50,7 @@ import axios from "axios";
 
 // Create axiosSecure instance outside the hook to avoid instance recreation on each render
 const axiosSecure = axios.create({
-  baseURL: 'https://yoga-master-server-bc4w.onrender.com'  // Ensure this is the correct base URL
+  baseURL: 'https://yoga-master-server-new.onrender.com'  // Ensure this is the correct base URL
 });
 
 const useAxiosSecure = () => {
