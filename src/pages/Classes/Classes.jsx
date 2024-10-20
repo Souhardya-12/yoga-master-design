@@ -31,7 +31,7 @@ const Classes = () => {
 
 
   //handle add to cart
-  // const handleSelect = (id) => {
+  // //const handleSelect = (id) => {
   //   // console.log(id)
   //   axiosSecure.get(`/enrolled-classes/${currentUser?.email}`).then(res => setEnrolledClasses(res.data)).catch(err => console.log(err))
 
