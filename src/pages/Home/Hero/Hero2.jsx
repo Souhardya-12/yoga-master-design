@@ -19,7 +19,7 @@ const Hero2 = () => {
               <h1 className='md:text-7xl text-4xl font-bold'>Courses from Home</h1>
               <div className='md:w-1/2'>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt sunt facilis! Exercitationem vero blanditiis reiciendis dolorum sit suscipit laboriosam molestiae. Dolorum esse sapiente nihil veritatis magni animi repellat voluptatibus!
+                Our online yoga platform offers a wide range of expert-led courses, allowing you to practice yoga from the comfort of your home. Improve your flexibility, strength, and mindfulness with personalized lessons at your convenience.
                 </p>
               </div>
               <div className='flex flex-wrap items-center gap-5'>

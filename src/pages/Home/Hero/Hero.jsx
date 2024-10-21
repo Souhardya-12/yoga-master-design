@@ -18,10 +18,10 @@ const Hero = () => {
           <div>
             <div className='space-y-4 '>
               <p className='md:text-4xl text-2xl'>We Provide</p>
-              <h1 className='md:text-7xl text-4xl font-bold'>Best Yoga Course Online</h1>
+              <h1 className='md:text-7xl text-4xl font-bold'>Best Yoga Courses Online</h1>
               <div className='md:w-1/2'>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae deserunt sunt facilis! Exercitationem vero blanditiis reiciendis dolorum sit suscipit laboriosam molestiae. Dolorum esse sapiente nihil veritatis magni animi repellat voluptatibus!
+                  Welcome to our online yoga platform, where you can explore a variety of classes tailored to all levels. Enjoy expert guidance, personalized programs, and a supportive community to enhance your practice anytime, anywhere.
                 </p>
               </div>
               <div className='flex flex-wrap items-center gap-5'>

@@ -113,8 +113,8 @@ const SingleClass = () => {
                                             <div>
                                                 <h3 className='text-2xl mt-8'>Course Description</h3>
                                                 <p className='mt-4'>
-                                                    This tutorial will help you learn quickly and thoroughly. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam aliquam modi veniam, magnam veritatis reiciendis maxime suscipit, tempore corporis eligendi quibusdam vitae! Facilis ipsam accusamus cupiditate quia cum. Libero, neque.
-                                                    <br /><br />You will be exposed to principles and strategies but more importantly you will learn how to actually apply these concepts in your life. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi autem quis corporis perferendis suscipit harum temporibus illo. Ipsam cum animi doloremque, sunt rem ipsa vel, repellat, voluptatum esse impedit labore.
+                                                    This tutorial is designed to help you learn yoga effectively and thoroughly. It will guide you through each step with clear instruction, helping you build a solid foundation for your practice. You'll gain flexibility, strength, and mental clarity as you progress through the course.
+                                                    <br /><br />In addition to learning key yoga principles and strategies, you'll discover practical ways to integrate these concepts into your daily life. Whether you're a beginner or looking to deepen your practice, this course offers the tools and guidance you need to enhance your well-being and mindfulness.
                                                 </p>
                                                 <div className='bg-[#F8F8F8] dark:bg-indigo-500 space-y-6 p-8 rounded-md my-8'>
                                                     <h4 className='text-2xl'>What you will learn?</h4>
@@ -132,7 +132,7 @@ const SingleClass = () => {
                                                                 <img src="/correct-mark.png" alt="" />
                                                             </div>
                                                             <div className='flex-1'>
-                                                                Learn how perspective works and incorporate your art
+                                                                You can practice yoga at home anytime, anywhere.
                                                             </div>
                                                         </li>
                                                         <li className='flex space-x-3'>
@@ -140,13 +140,13 @@ const SingleClass = () => {
                                                                 <img src="/correct-mark.png" alt="" />
                                                             </div>
                                                             <div className='flex-1'>
-                                                                Learn how perspective works and incorporate your art
+                                                                Transform your space into a peaceful yoga studio.
                                                             </div>
                                                         </li>
                                                     </ul>
                                                 </div>
                                                 <div>
-                                                    <h4 className='text-2xl'>What you will learn?</h4>
+                                                    <h4 className='text-2xl'>What you will gain?</h4>
                                                     <div className='grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-5 mt-5'>
                                                         <div className='bg-white rounded px-5 py-[18px] flex shadow-box2 space-x-[10px] items-center'>
                                                             <span className='flex-none'>
@@ -180,15 +180,15 @@ const SingleClass = () => {
                                             <div>
                                                 <h3 className='text-2xl mt-8 '>Lesson Plan</h3>
                                                 <p className='mt-4'>
-                                                This tutorial will help you learn quickly and thoroughly. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam aliquam modi veniam, magnam veritatis reiciendis maxime suscipit, tempore corporis eligendi quibusdam vitae! Facilis ipsam accusamus cupiditate quia cum. Libero, neque.
-                                                <br /><br />You will be exposed to principles and strategies but more importantly you will learn how to actually apply these concepts in your life. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi autem quis corporis perferendis suscipit harum temporibus illo. Ipsam cum animi doloremque, sunt rem ipsa vel, repellat, voluptatum esse impedit labore.
+                                                    This tutorial is designed to help you learn yoga quickly and effectively, with a strong focus on both the fundamentals and advanced practices. You'll explore various yoga postures, breathing techniques, and mindfulness exercises aimed at enhancing your physical strength, flexibility, and mental clarity. Our structured lessons ensure that you gain a deep understanding of yoga principles, from improving posture and balance to mastering meditation for stress relief.
+                                                    <br /><br />You'll not only be introduced to key yoga concepts and techniques but, more importantly, you'll learn how to integrate these practices into your daily life for long-term benefits.
                                                 </p>
                                                 <div className='bg-[#F8F8F8] dark:bg-indigo-500 space-y-6 p-8 rounded-md my-8 '>
                                                     <h4 className='text-2xl'>This course is for beginners</h4>
                                                 </div>
                                                 <div>
-                                                    <h4 className='text-2xl'>What you will learn?</h4>
-                                                    <p className='mt-4 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim sint reiciendis blanditiis iure, eius unde impedit tempore cupiditate. Ratione, unde animi. Tempora sapiente libero itaque quos nisi debitis veniam possimus?Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum beatae harum veniam reiciendis tenetur, sunt possimus labore cum rerum mollitia sint esse soluta magni necessitatibus nemo? Totam temporibus minima suscipit.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate necessitatibus animi nobis illo, in tempora tenetur praesentium veritatis placeat suscipit repellendus nam quas ducimus fugit odit consectetur dignissimos ut reprehenderit!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi quam quidem delectus ut debitis aut? Nesciunt, sed corporis? Rem magnam est consequatur veritatis animi ut, sed dolorem expedita? Voluptates, ex?Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea id quos ipsum, eum autem maiores quod reiciendis deleniti quis vero veritatis, iste accusamus pariatur deserunt eveniet quas nihil debitis delectus.</p>
+                                                    <h4 className='text-2xl'>What you will practice?</h4>
+                                                    <p className='mt-4 '>Students of my yoga course will practice various asanas, including warrior poses, and tree pose, enhancing flexibility and strength. They'll also learn pranayama breathing exercises for better mental clarity and stress relief, along with guided meditation for mindfulness and inner peace. Yoga philosophy and lifestyle principles will be incorporated to promote holistic well-being. Through personalized guidance and modifications, students will improve their physical and mental health, creating a harmonious balance in their everyday lives.</p>
                                                 </div>
                                             </div>
                                         </div>
